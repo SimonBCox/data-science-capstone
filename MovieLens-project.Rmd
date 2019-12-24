@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 title: "The Movie Lens project"
 author: "Simon Cox"
